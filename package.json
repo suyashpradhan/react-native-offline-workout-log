@@ -1,7 +1,7 @@
 {
   "name": "react-native-offline-workout-log",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "expo-router/entry",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -15,6 +15,7 @@
     "drizzle-orm": "^0.45.1",
     "expo": "~54.0.33",
     "expo-crypto": "^15.0.8",
+    "expo-drizzle-studio-plugin": "^0.2.1",
     "expo-network": "^8.0.8",
     "expo-router": "^6.0.23",
     "expo-sqlite": "~16.0.10",
